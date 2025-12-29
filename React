@@ -1,0 +1,4 @@
+npx create-react-app detonateur-le-danseur
+cd detonateur-le-danseur
+npm install react-router-dom
+npm start
